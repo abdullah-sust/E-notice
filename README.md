@@ -16,7 +16,7 @@ Moqsadur Rahman<br>
 moqsadsust@gmail.com<br>
 
 Md. Abdullah Al Awal<br>
-abdullahalawal177@gmail.com<br>
+abdullah@student.sust.edu<br>
 
 ## Technology
 
