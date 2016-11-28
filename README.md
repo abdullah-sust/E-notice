@@ -17,3 +17,12 @@ moqsadsust@gmail.com<br>
 
 Md. Abdullah Al Awal<br>
 abdullahalawal177@gmail.com<br>
+
+## Technology
+
+JSP<br>
+CSS<br>
+HTML 5.0<br>
+Bootstrap<br>
+JavaScript<br>
+MySQL<br>
