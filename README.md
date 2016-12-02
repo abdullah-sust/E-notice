@@ -26,3 +26,4 @@ HTML 5.0<br>
 Bootstrap<br>
 JavaScript<br>
 MySQL<br>
+jQuery<br>
